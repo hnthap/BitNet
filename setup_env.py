@@ -57,7 +57,7 @@ COMPILER_EXTRA_ARGS = {
 }
 
 OS_EXTRA_ARGS = {
-    "Windows":["-T", "ClangCL"],
+#    "Windows": ["-T", "ClangCL"],
 }
 
 ARCH_ALIAS = {
